@@ -2,3 +2,4 @@
 
 Биография: студент, изучаю Git и GitHub.
 Хобби: программирование, спорт.
+Email: starobinskysky@gmail.com
